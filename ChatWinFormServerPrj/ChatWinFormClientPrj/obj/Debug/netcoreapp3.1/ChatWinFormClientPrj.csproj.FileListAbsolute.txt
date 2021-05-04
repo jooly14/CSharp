@@ -1,0 +1,15 @@
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.exe
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.deps.json
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.runtimeconfig.json
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.dll
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\bin\Debug\netcoreapp3.1\ChatWinFormClientPrj.pdb
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.Form1.resources
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.csproj.GenerateResource.cache
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.dll
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.pdb
+C:\Users\82106\source\repos\ChatWinFormServerPrj\ChatWinFormClientPrj\obj\Debug\netcoreapp3.1\ChatWinFormClientPrj.genruntimeconfig.cache
