@@ -34,7 +34,7 @@ namespace ChatWinFormServerPrj
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // textBox1
@@ -65,11 +65,13 @@ namespace ChatWinFormServerPrj
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(33, 72);
-            this.textBox3.Multiline = true;
+            this.textBox3.Location = new System.Drawing.Point(24, 68);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(644, 352);
-            this.textBox3.TabIndex = 6;
+            this.textBox3.ReadOnly = true;
+            this.textBox3.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
+            this.textBox3.Size = new System.Drawing.Size(658, 365);
+            this.textBox3.TabIndex = 3;
+            this.textBox3.Text = "";
             // 
             // Form1
             // 
@@ -95,7 +97,7 @@ namespace ChatWinFormServerPrj
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.RichTextBox textBox3;
     }
 }
 
