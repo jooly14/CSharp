@@ -1,0 +1,13 @@
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.AssemblyInfo.cs
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.exe
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.deps.json
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.json
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.runtimeconfig.dev.json
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.dll
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\bin\Debug\netcoreapp3.1\DelegateTest.pdb
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.dll
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.pdb
+C:\Users\82106\source\repos\DelegateTest\DelegateTest\obj\Debug\netcoreapp3.1\DelegateTest.genruntimeconfig.cache
