@@ -25,6 +25,7 @@ namespace ChatWinFormServerPrj
         
         static string connStr = "Data Source=DESKTOP-6M21UCA;Initial Catalog=ChatDB;Integrated Security=True";
 
+
         public Form1()
         {
             InitializeComponent();
@@ -68,6 +69,7 @@ namespace ChatWinFormServerPrj
             Thread thread1 = new Thread(new ThreadStart(AcceptClient)); //여러명의 클라이언트로부터 계속해서 접속을 받기위해서 스레드를 사용
             thread1.IsBackground = true;
             thread1.Start();
+            button1.Enabled = false;
         }
         private void AcceptClient()
         {
@@ -122,7 +124,7 @@ namespace ChatWinFormServerPrj
                     {
                       
                         idchk = false;
-                        if(br.ReadInt32() == -1)
+                        if(br.ReadInt32() == -1)    //로그인 도중에 클라이언트 프로그램 종료시 자원반환
                         {
                             ns.Close();
                             br.Close();
@@ -131,7 +133,7 @@ namespace ChatWinFormServerPrj
                             return;
                         }
                         username = br.ReadString();
-                        foreach (Client c in clientList)
+                        foreach (Client c in clientList)    // 중복 로그인 확인
                         {
                             if (c.username == username)
                             {
@@ -152,11 +154,11 @@ namespace ChatWinFormServerPrj
                         
                     }
                     clientList.Add(this);
-                    ReadContent();
+                    ReadContent();  //기존에 대화내용을 읽어서 로그인한 사용자에게 보내줌
 
                     string strIn = username + "님이 접속했습니다.";
                     string dateTimeIn = string.Format("{0:yyyy/MM/dd HH:mm:ss}", DateTime.Now); ;
-                    Insert(strIn, dateTimeIn);
+                    Insert(strIn, dateTimeIn);  //db에 저장
                     strIn = strIn + " (" + dateTimeIn + ")";
                     textBox3.AppendText(strIn+"\r\n");
                     textBox3.Select(textBox3.TextLength, 0);
@@ -169,9 +171,9 @@ namespace ChatWinFormServerPrj
                         foreach(Client c in clientList)
                         {
                             if (c.username != username) {
-                                c.bw.Write(strIn);
+                                c.bw.Write(strIn);  //본인을 제외한 다른 사용자에게 새로운 사용자의 접속을 알림
                             }
-                            c.bw.Write("========<현재 접속자>========");
+                            c.bw.Write("========<현재 접속자>========"); //모든 사용자에게 현재 접속자 현황을 보여줌
                             foreach(Client c2 in clientList)
                             {
                                 c.bw.Write(c2.username);
@@ -179,7 +181,7 @@ namespace ChatWinFormServerPrj
                             c.bw.Write("=========================");
                         }
                     }
-                    bw.Write("//STE//");
+                    bw.Write("//STE//");    //기존 대화내용 전송의 끝을 의미 //클라이언트 화면의 스크롤 위치 조정을 위해서 사용
                 }
                     
                 while (true)
@@ -239,7 +241,7 @@ namespace ChatWinFormServerPrj
 
             }
 
-            private void ExitClient()
+            private void ExitClient()   //사용자가 나갈때 마지막 accesstime을 db에 저장
             {
                 //테이블에 존재하는 아이디는 update
                 //테이블에 없는 아이디는 insert
@@ -267,7 +269,7 @@ namespace ChatWinFormServerPrj
                 int result = command.ExecuteNonQuery();
                 conn.Close();
             }
-            private void ExistChk()
+            private void ExistChk() //db에 이미 저장된 아이디인지 확인
             {
                 SqlConnection conn = new SqlConnection(connStr);
                 string query = "select * from client";
@@ -398,10 +400,6 @@ namespace ChatWinFormServerPrj
             tcpListener.Stop();
 
         }
-       
-
-
-        
 
         
     }
