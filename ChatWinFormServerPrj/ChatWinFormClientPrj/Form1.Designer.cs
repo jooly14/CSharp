@@ -72,20 +72,21 @@ namespace ChatWinFormClientPrj
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(31, 430);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(123, 25);
+            this.label3.Size = new System.Drawing.Size(108, 25);
             this.label3.TabIndex = 4;
-            this.label3.Text = "보낼 string 값";
+            this.label3.Text = "보낼 메시지";
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(208, 427);
+            this.textBox3.Location = new System.Drawing.Point(166, 427);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(294, 31);
+            this.textBox3.Size = new System.Drawing.Size(347, 31);
             this.textBox3.TabIndex = 6;
+            this.textBox3.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBox3_KeyUp);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(538, 423);
+            this.button2.Location = new System.Drawing.Point(547, 423);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(153, 35);
             this.button2.TabIndex = 7;
@@ -128,7 +129,6 @@ namespace ChatWinFormClientPrj
             this.textBox2.Size = new System.Drawing.Size(669, 279);
             this.textBox2.TabIndex = 12;
             this.textBox2.Text = "";
-            this.textBox2.VScroll += new System.EventHandler(this.textBox2_VScroll);
             // 
             // Form1
             // 
