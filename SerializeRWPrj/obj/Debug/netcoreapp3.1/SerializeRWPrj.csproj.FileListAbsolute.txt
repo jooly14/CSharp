@@ -1,0 +1,13 @@
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.exe
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.deps.json
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.runtimeconfig.json
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.dll
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\bin\Debug\netcoreapp3.1\SerializeRWPrj.pdb
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.dll
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.pdb
+C:\Users\82106\source\repos\FileStream\SerializeRWPrj\obj\Debug\netcoreapp3.1\SerializeRWPrj.genruntimeconfig.cache

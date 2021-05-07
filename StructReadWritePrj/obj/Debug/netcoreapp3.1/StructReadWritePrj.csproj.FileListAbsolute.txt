@@ -1,0 +1,13 @@
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.exe
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.deps.json
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.runtimeconfig.json
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.dll
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\bin\Debug\netcoreapp3.1\StructReadWritePrj.pdb
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.dll
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.pdb
+C:\Users\82106\source\repos\FileStream\StructReadWritePrj\obj\Debug\netcoreapp3.1\StructReadWritePrj.genruntimeconfig.cache
