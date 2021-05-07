@@ -1,0 +1,13 @@
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.exe
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.deps.json
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.runtimeconfig.json
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.dll
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\bin\Debug\netcoreapp3.1\BinaryReaderPrj.pdb
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.dll
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.pdb
+C:\Users\82106\source\repos\FileStream\BinaryReaderPrj\obj\Debug\netcoreapp3.1\BinaryReaderPrj.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.exe
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.deps.json
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.runtimeconfig.json
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.dll
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\bin\Debug\netcoreapp3.1\BinaryWriterPrj.pdb
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.dll
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.pdb
+C:\Users\82106\source\repos\FileStream\BinaryWriterPrj\obj\Debug\netcoreapp3.1\BinaryWriterPrj.genruntimeconfig.cache

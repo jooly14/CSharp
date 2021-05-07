@@ -1,0 +1,12 @@
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.exe
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.deps.json
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.runtimeconfig.json
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.runtimeconfig.dev.json
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.dll
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\bin\Debug\netcoreapp3.1\ConsoleClassPrj.pdb
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.AssemblyInfo.cs
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.dll
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.pdb
+C:\Users\82106\source\repos\FileStream\ConsoleClassPrj\obj\Debug\netcoreapp3.1\ConsoleClassPrj.genruntimeconfig.cache
