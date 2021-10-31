@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.exe
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.deps.json
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.runtimeconfig.json
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.runtimeconfig.dev.json
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.dll
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\bin\Debug\netcoreapp3.1\CSharpPractice20211031.pdb
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.AssemblyInfo.cs
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.dll
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.pdb
+C:\Users\user\source\repos\CSharpPractice20211031\CSharpPractice20211031\obj\Debug\netcoreapp3.1\CSharpPractice20211031.genruntimeconfig.cache
